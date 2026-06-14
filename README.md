@@ -1,2 +1,0 @@
-# Linux-Learning-Journey
-This repository simply contains documentation and a record of my journey in learning Linux. So there’s nothing special about it. You’re still welcome to take a look if you’re curious about what’s inside. 
